@@ -1,4 +1,4 @@
-# scala
+# Scala playground
 
 I'm learning Scala now by taking Functional Programming in Scala Specialization by EPFL (https://www.coursera.org/specializations/scala).
 
